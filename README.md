@@ -1,2 +1,3 @@
 # Initiation
-Part of learning curve / basic navigation
+Norman learns GitHub
+This is part of learning curve / basic navigation
